@@ -80,31 +80,3 @@ cd client && npm install
 ```
 
 > Make sure the root directory has a.env file.
-
-
-
-
-
-> Configure the necessary environment variables.
-
-
-
-
-
-
-```
-NEXT_PUBLIC_RPC_URL="POLYGON_TESTNET_URI"
-NEXT_PUBLIC_CONTRACT_ADDRESS="CONTRACT_ADDRESS"
-NEXT_PUBLIC_GRAPHQL_URI="GRAPHQL_URL"
-```
-
-> Replace the "CONTRACT_ADDRESS" with a copy of the Smart Contract Address.
-
-
-
-
-
-```
-NEXT_PUBLIC_CONTRACT_ADDRESS="CONTRACT_ADDRESS"
-```
-
