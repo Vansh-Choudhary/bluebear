@@ -1,4 +1,4 @@
-**#bluebear-Decentralized**
+**bluebear-Decentralized**
 Designing a decentralized social media platform that empowers users to control and monetize their content through smart contracts. Implement a system where content creators receive direct compensation based on engagement, and users can interact with content in a transparent and decentralized manner. Ensure privacy, censorship resistance, and seamless integration of smart contracts for secure transactions between users and content creators
 
 
