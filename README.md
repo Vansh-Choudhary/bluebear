@@ -27,15 +27,14 @@ We addressed a critical security flaw related to user data privacy. Implementing
 
 ### Stack
 
-- Language : [TypeScript]
-- Frontend : [Next Js]
-- Smart Contract Lang : [Solidity]
-- Indexing :  [The Graph]
-- Dev Environment for ETH Software: [Hardhat]
-- Network : [Polygon]
-- Style : [Tailwind CSS]
-- State management : [GraphQL Apollo Client]
-- Fonts - [Google Fonts]
+- [TypeScript]
+- [Next Js]
+-  [Solidity]
+-  [The Graph]
+-  [Hardhat]
+- [Polygon]
+- [Tailwind CSS]
+- [GraphQL Apollo 
 
 
 
