@@ -25,7 +25,7 @@ We addressed a critical security flaw related to user data privacy. Implementing
 
 
 
-### Stack
+### Tech used
 
 - [TypeScript]
 - [Next Js]
@@ -34,7 +34,7 @@ We addressed a critical security flaw related to user data privacy. Implementing
 -  [Hardhat]
 - [Polygon]
 - [Tailwind CSS]
-- [GraphQL Apollo 
+- [GraphQL Apollo]
 
 
 
