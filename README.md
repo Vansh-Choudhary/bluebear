@@ -1,9 +1,19 @@
-#bluebear-Decentralized
+**#bluebear-Decentralized**
 Designing a decentralized social media platform that empowers users to control and monetize their content through smart contracts. Implement a system where content creators receive direct compensation based on engagement, and users can interact with content in a transparent and decentralized manner. Ensure privacy, censorship resistance, and seamless integration of smart contracts for secure transactions between users and content creators
+
+
+
 **Motivation:**
 Embark on a revolutionary social experience with our decentralized platform, where connection meets empowerment. In a landscape dominated by centralization, we redefine the rules, offering users control over their data, transparent engagement metrics, and a secure, private environment. For content creators, it's not just a platform; it's a stage for innovation, with smart contracts ensuring fair compensation and cutting-edge features like NFTs and decentralized ad networks reshaping monetization. Our user-friendly interface ensures a seamless journey, making every interaction impactful. Join the movement towards a decentralized, empowered digital future – where your online presence is authentically yours, and the adventure of redefining social media begins.
+
+
+
 **Solved Problem:**
 We addressed a critical security flaw related to user data privacy. Implementing robust decentralized architecture and encryption protocols, we fortified the platform against potential breaches. This solution ensures user information remains confidential, instilling trust in our community and creating a secure foundation for seamless, worry-free interactions on our decentralized social media platform
+
+
+
+
 
 ### Capabilities
 
@@ -11,6 +21,9 @@ We addressed a critical security flaw related to user data privacy. Implementing
 - [x] Look Up Post
 - [x] Comment Here 
 - [x] Posts on Profiles
+
+
+
 
 ### Stack
 
@@ -23,6 +36,9 @@ We addressed a critical security flaw related to user data privacy. Implementing
 - Style : [Tailwind CSS]
 - State management : [GraphQL Apollo Client]
 - Fonts - [Google Fonts]
+
+
+
 
 ### Installation
 
